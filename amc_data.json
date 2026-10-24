@@ -1,0 +1,38 @@
+{
+  "zones": {
+    "West Zone": {
+      "wards": ["Navrangpura", "Naranpura", "Paldi", "Vasna", "Ambawadi"],
+      "zonal_office": "Usmanpura AMC Office"
+    },
+    "North West Zone": {
+      "wards": ["Bodakdev", "Thaltej", "Vastrapur", "Ghatlodia", "Gota"],
+      "zonal_office": "Bodakdev AMC Office"
+    },
+    "South West Zone": {
+      "wards": ["Jodhpur", "Vejalpur", "Sarkhej", "Makarba"],
+      "zonal_office": "Jodhpur AMC Office"
+    },
+    "East Zone": {
+      "wards": ["Maninagar", "Kankaria", "Bapunagar"],
+      "zonal_office": "Maninagar AMC Office"
+    }
+  },
+  "departments": {
+    "pothole": {
+      "dept_name": "Roads & Engineering Department",
+      "sla_hours": 48
+    },
+    "garbage": {
+      "dept_name": "Solid Waste Management (SWM)",
+      "sla_hours": 24
+    },
+    "streetlight": {
+      "dept_name": "Street Lighting & Electrical Department",
+      "sla_hours": 12
+    },
+    "water_logging": {
+      "dept_name": "Drainage & Stormwater Department",
+      "sla_hours": 8
+    }
+  }
+}

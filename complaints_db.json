@@ -1,0 +1,35 @@
+{
+  "AMC-2026-9001": {
+    "ticket_id": "AMC-2026-9001",
+    "issue_type": "garbage",
+    "severity": "High",
+    "ward": "Navrangpura",
+    "zone": "West Zone",
+    "department": "Solid Waste Management (SWM)",
+    "description": "Heavy trash pile blocking pedestrian walkway near University road.",
+    "created_at": "2026-10-24 14:10",
+    "estimated_resolution": "2026-10-25 14:10",
+    "status": "In Progress (Sanitation truck dispatched)",
+    "updates": [
+      "Ticket logged via AMC AI Vision",
+      "Truck #GJ-01-CZ-4321 assigned to ward beat."
+    ]
+  },
+  "AMC-2026-4646": {
+    "ticket_id": "AMC-2026-4646",
+    "issue_type": "Waterlogging / Civic Hazard",
+    "severity": "High",
+    "ward": "Vastrapur",
+    "zone": "North West Zone",
+    "department": "Drainage & Stormwater Department",
+    "description": "Autonomous defect verification at Vastrapur Lake Road",
+    "created_at": "24 Oct 2026, 07:03 PM",
+    "estimated_resolution": "25 Oct 2026, 07:03 PM",
+    "status": "Assigned to Ward Junior Engineer",
+    "assigned_officer": "Er. Hardik Patel",
+    "updates": [
+      "Visual AI registered: Waterlogging / Civic Hazard (Severity: High)",
+      "Forwarded to Drainage & Stormwater Department (North West Zone)"
+    ]
+  }
+}
